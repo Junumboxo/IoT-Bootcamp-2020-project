@@ -3,6 +3,6 @@
 
 #define THERMISTOR_PIN A0
 
-float getTemperature(void);
+float getTempThermistor(void);
 
 #endif

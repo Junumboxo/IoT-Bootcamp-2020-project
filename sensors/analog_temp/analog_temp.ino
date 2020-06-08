@@ -7,7 +7,7 @@ void setup() {
 }
 
 void loop() {
-  currentTemp = getTemperature();
+  currentTemp = getTempThermistor();
   Serial.print("Current temperature ");
   Serial.println(currentTemp);
   delay(1000);
