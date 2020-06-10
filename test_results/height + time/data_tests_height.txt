@@ -1,0 +1,72 @@
+1m from the ground
+
+10:41:09.190 -> Current temperature on DHT11 - 27.90
+10:41:09.223 -> Current temperature on DS18B20 - 27.37
+10:41:09.256 -> .......
+10:41:11.497 -> Current temperature on DHT11 - 27.90
+10:41:11.531 -> Current temperature on DS18B20 - 27.37
+10:41:11.598 -> .......
+10:41:13.816 -> Current temperature on DHT11 - 27.90
+10:41:13.883 -> Current temperature on DS18B20 - 27.37
+10:41:13.916 -> .......
+10:41:16.148 -> Current temperature on DHT11 - 27.90
+10:41:16.216 -> Current temperature on DS18B20 - 27.37
+
+
+On the ground
+
+10:47:45.430 -> Current temperature on DHT11 - 26.30
+10:47:45.463 -> Current temperature on DS18B20 - 26.62
+10:47:45.531 -> .......
+10:47:47.764 -> Current temperature on DHT11 - 26.30
+10:47:47.797 -> Current temperature on DS18B20 - 26.62
+10:47:47.864 -> .......
+10:47:50.099 -> Current temperature on DHT11 - 26.30
+10:47:50.133 -> Current temperature on DS18B20 - 26.62
+10:47:50.166 -> .......
+10:47:52.425 -> Current temperature on DHT11 - 26.40
+10:47:52.458 -> Current temperature on DS18B20 - 26.62
+10:47:52.525 -> .......
+10:47:54.746 -> Current temperature on DHT11 - 26.40
+10:47:54.813 -> Current temperature on DS18B20 - 26.62
+10:47:54.846 -> .......
+
+
+11:35:32.274 -> Current temperature on DHT11 - 27.40
+11:35:32.307 -> Current temperature on DS18B20 - 26.81
+11:35:32.376 -> .......
+11:35:34.610 -> Current temperature on DHT11 - 27.50
+11:35:34.643 -> Current temperature on DS18B20 - 26.81
+11:35:34.678 -> .......
+11:35:36.934 -> Current temperature on DHT11 - 27.40
+11:35:36.967 -> Current temperature on DS18B20 - 26.81
+11:35:37.035 -> .......
+11:35:39.265 -> Current temperature on DHT11 - 27.40
+11:35:39.298 -> Current temperature on DS18B20 - 26.81
+11:35:39.365 -> .......
+11:35:41.591 -> Current temperature on DHT11 - 27.50
+11:35:41.625 -> Current temperature on DS18B20 - 26.81
+
+
+
+2m from the ground
+
+11:38:25.047 -> Current temperature on DHT11 - 27.50
+11:38:25.113 -> Current temperature on DS18B20 - 27.12
+11:38:25.147 -> .......
+11:38:27.380 -> Current temperature on DHT11 - 27.50
+11:38:27.447 -> Current temperature on DS18B20 - 27.12
+11:38:27.481 -> .......
+11:38:29.728 -> Current temperature on DHT11 - 27.50
+11:38:29.762 -> Current temperature on DS18B20 - 27.12
+
+12:37:58.546 -> Current temperature on DHT11 - 28.40
+12:37:58.580 -> Current temperature on DS18B20 - 27.69
+12:37:58.648 -> .......
+12:38:00.896 -> Current temperature on DHT11 - 28.40
+12:38:00.930 -> Current temperature on DS18B20 - 27.69
+12:38:00.964 -> .......
+12:38:03.203 -> Current temperature on DHT11 - 28.30
+12:38:03.237 -> Current temperature on DS18B20 - 27.69
+12:38:03.306 -> .......
+
