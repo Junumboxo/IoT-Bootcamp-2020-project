@@ -1,7 +1,7 @@
 #ifndef DHT11_H_
 #define DHT11_H_
 
-#define DHT11_PIN 8
+#define DHT11_PIN 36
 
 void setupDHT11();
 float getTemperatureDHT11(void);

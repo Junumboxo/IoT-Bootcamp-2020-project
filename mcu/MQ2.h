@@ -4,6 +4,6 @@
 #define GAS_SENSOR_PIN A0
 
 void setupGasSensor();
-double getGasSensorValue();
+double getGasSensorValue(void);
 
 #endif
